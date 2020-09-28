@@ -1,0 +1,20 @@
+/**
+ * @file euler_kokkos_version.h
+ *
+ * @brief CMake generated version information
+ *
+ * @author Pierre Kestener (pierre.kestener@cea.fr)
+ * @author CMake
+ *
+ */
+#pragma once
+
+namespace version
+{
+
+constexpr char const* git_build_string {"@GIT_BUILD_STRING@"};
+constexpr char const* git_branch       {"@GIT_BRANCH@"};
+constexpr char const* compile_date     {"@DATE_STRING@"};
+constexpr char const* compile_time     {"@TIME_STRING@"};
+
+}
