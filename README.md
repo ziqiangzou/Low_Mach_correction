@@ -14,7 +14,7 @@ hydrodynamics.
 
 Kokkos sources are included as a git submodule.
 
-To download kokkos sources with project "euler_kokkos_two_phase" clone it with option "--recursive"
+To download kokkos sources with project "Low Mach correction" clone it with option "--recursive"
 ```
 git clone --recursive https://github.com/ziqiangzou/Low_Mach_correction.git
 
