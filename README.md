@@ -16,7 +16,8 @@ Kokkos sources are included as a git submodule.
 
 To download kokkos sources with project "euler_kokkos_two_phase" clone it with option "--recursive"
 ```
-git clone --recursive https://github.com/ziqiangzou/euler_kokkos_two_phase.git
+git clone --recursive https://github.com/ziqiangzou/Low_Mach_correction.git
+
 ```
 
 If you performed a regular "git clone", just type
